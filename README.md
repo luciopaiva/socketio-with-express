@@ -1,5 +1,5 @@
 
-# Express with socket.io
+# socket.io with Express
 
 This demo shows how to establish a websocket connection and send and receive messages through socket.io.
 
