@@ -3,10 +3,11 @@
 
 This demo shows how to establish a websocket connection and send and receive messages through socket.io.
 
-Make sure you have Node.js installed and run:
+Make sure you have nvm installed and run:
 
     git clone git@github.com:luciopaiva/socketio-with-express.git
     cd socketio-with-express
+    nvm install
     npm install
 
 Then start the sample server:
