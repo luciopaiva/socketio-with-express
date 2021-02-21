@@ -7,7 +7,7 @@ const
 const SERVER_PORT = 3000;
 
 let nextVisitorNumber = 1;
-let onlineClients = new Set();
+const onlineClients = new Set();
 
 function generateRandomNumber() {
     return (Math.floor(Math.random() * 1000)).toString();
